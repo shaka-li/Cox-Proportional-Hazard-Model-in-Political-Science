@@ -19,4 +19,4 @@ This repository contains materials for the workshop on survival analysis using t
 - **David Akindoyin** ([daa24d@fsu.edu](mailto:daa24d@fsu.edu))  
   Ph.D. Program in Political Science, Florida State University
 
-**This repository is maintained as part of the survival analysis workshop at FSU.**
+
