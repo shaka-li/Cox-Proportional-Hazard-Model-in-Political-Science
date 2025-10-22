@@ -6,7 +6,7 @@ This repository contains materials for the workshop on survival analysis using t
 - `slides.qmd`: Lecture slides for the workshop  
 - `handout.qmd`: Read-ahead material summarizing the key concepts  
 - `example.Rmd`: Reproducible R code for participants  
-- `cox.csv`: Example datasets  
+- `example.csv`: Example datasets  
 
 ## Requirements
 - R ≥ 4.3  
