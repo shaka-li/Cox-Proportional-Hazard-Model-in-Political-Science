@@ -10,7 +10,7 @@ This repository contains materials for the workshop on survival analysis using t
 
 ## Requirements
 - R ≥ 4.3  
-- Packages: `survival`, `survminer`, `marginaleffects`, tidyverse  
+- Packages: `survival`, `survminer`, `marginaleffects`, `tidyverse`  
 
 ## Authors
 - **Shaka Y.J. Li** ([shaka9487@fsu.edu](mailto:shaka9487@fsu.edu))  
