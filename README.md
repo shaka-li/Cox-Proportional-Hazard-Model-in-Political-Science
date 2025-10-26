@@ -9,7 +9,7 @@ This repository contains materials for the workshop on survival analysis using t
 - `example.csv`: Example datasets  
 
 ## Preparing the Data
-The dataset for this workshop is available in the project’s [GitHub repository](https://github.com/shaka-li/Cox-Proportional-Hazard-Model-in-Political-Science). If the link above does not work, you can also access it directly via the following URL: [https://github.com/shaka-li/Cox-Proportional-Hazard-Model-in-Political-Science](https://github.com/shaka-li/Cox-Proportional-Hazard-Model-in-Political-Science).[^repo-url]
+The dataset for this workshop is available in the project’s [GitHub repository](https://github.com/shaka-li/Cox-Proportional-Hazard-Model-in-Political-Science). If the link above does not work, you can also access it directly via the following URL: [https://github.com/shaka-li/Cox-Proportional-Hazard-Model-in-Political-Science](https://github.com/shaka-li/Cox-Proportional-Hazard-Model-in-Political-Science).
 
 After cloning or downloading the repository, open R and run:
 
