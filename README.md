@@ -4,7 +4,8 @@ This repository contains materials for the workshop on survival analysis using t
 
 ## Contents
 - `slides.qmd`: Lecture slides for the workshop  
-- `handout.qmd`: Read-ahead material summarizing the key concepts  
+- `handout.pdf`: Material summarizes all the content from the workshop. 
+- `Read_Ahead.pdf`: Read-ahead material summarizing required packages. 
 - `example.Rmd`: Reproducible R code for participants  
 - `example.csv`: Example datasets  
 
