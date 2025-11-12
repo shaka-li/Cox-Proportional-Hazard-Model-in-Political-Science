@@ -31,13 +31,14 @@ During the workshop, we will fit the Cox model, generate counterfactual predicti
 
 ~~~r
 # Install packages if not already installed
-# install.packages(c("survival", "marginaleffects", "ggplot2", "survminer"))
+# install.packages(c("survival", "marginaleffects", "ggplot2", "survminer", "rsample"))
 
 # Load required packages ----
 library(survival)        # Core survival modeling (e.g., coxph, survfit)
 library(marginaleffects) # Marginal effects / contrasts & visualization
 library(ggplot2)         # Grammar-of-graphics plotting
 library(survminer)       # Convenient survival plots (e.g., ggsurvplot)
+library(rsample)
 ~~~
 
 ## Requirements
