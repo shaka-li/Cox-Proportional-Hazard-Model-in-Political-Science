@@ -38,7 +38,7 @@ library(survival)        # Core survival modeling (e.g., coxph, survfit)
 library(marginaleffects) # Marginal effects / contrasts & visualization
 library(ggplot2)         # Grammar-of-graphics plotting
 library(survminer)       # Convenient survival plots (e.g., ggsurvplot)
-library(rsample)
+library(rsample)          # Semi-parametric bootstrapping
 ~~~
 
 ## Requirements
