@@ -6,9 +6,9 @@ This repository contains materials for the workshop on survival analysis using t
 - `slides.pdf`: Lecture slides for the workshop  
 - `handout.pdf`: Material summarizes all the content from the workshop. 
 - `Read_Ahead.pdf`: Read-ahead material summarizing required packages. 
-- `cox_livecoding_practice.R`: Reproducible R code and practice for participants  
-- `cox_livecoding_solution.R`: Solutions for practice in workshop
-- `example.csv`: Datasets used for example 1  
+- `cox_livecoding_practice.R`: Reproducible R code and practice for participants.
+- `cox_livecoding_solution.R`: Solutions for practice in workshop.
+- `example.csv`: Datasets used for example 1.  
 
 ## Preparing the Data
 The dataset for this workshop is available in the project’s [GitHub repository](https://github.com/shaka-li/Cox-Proportional-Hazard-Model-in-Political-Science). If the link above does not work, you can also access it directly via the following URL: [https://github.com/shaka-li/Cox-Proportional-Hazard-Model-in-Political-Science](https://github.com/shaka-li/Cox-Proportional-Hazard-Model-in-Political-Science).
