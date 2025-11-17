@@ -135,9 +135,9 @@ min_time <- min(veteran$time[veteran$trt == 2], na.rm = TRUE)
 max_time <- max(veteran$time[veteran$trt == 2], na.rm = TRUE)
 
 nd <- datagrid(
-  status = 0:1, 
-  time = round(seq(min_time, max_time, length.out = 200)), 
-  grid_type = "counterfactual", 
+  status = 1:2, 
+  time = round(seq(..., ..., length.out = 200)), 
+  grid_type = "...", 
   model = model_c 
 )
 
