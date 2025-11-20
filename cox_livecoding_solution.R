@@ -127,6 +127,12 @@ summary(model_c)
 
 # Counterfactual Predictions -------------------------------------
 
+# For Windows
+# If "rsample" does not work or gives problem, confirm your maginaleffect package version
+# packageVersion("marginaleffects") 
+# if not the newest version (0.31.0), load the below
+# install.packages("marginaleffects", type = "source")
+
 library(marginaleffects)
 
 min_time <- min(veteran$time[veteran$trt == 2], na.rm = TRUE)
